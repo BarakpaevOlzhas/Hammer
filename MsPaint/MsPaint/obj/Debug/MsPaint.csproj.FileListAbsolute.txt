@@ -1,0 +1,15 @@
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\bin\Debug\MsPaint.exe.config
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\bin\Debug\MsPaint.exe
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\bin\Debug\MsPaint.pdb
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.csprojAssemblyReference.cache
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MainWindow.g.cs
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\App.g.cs
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint_MarkupCompile.cache
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint_MarkupCompile.lref
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MainWindow.baml
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.g.resources
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.Properties.Resources.resources
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.GenerateResource.cache
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.exe
+C:\Users\БаракпаевО.CORP\source\repos\MsPaint\MsPaint\obj\Debug\MsPaint.pdb
